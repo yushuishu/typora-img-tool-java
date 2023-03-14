@@ -8,11 +8,15 @@ import org.apache.commons.io.IOUtils;
 import java.io.*;
 import java.util.Base64;
 
-/**
- * @author wuZhenFeng
- * @date 2022/1/8 14:21
- */
 
+/**
+ * @author ：谁书-ss
+ * @date ：2022/1/8 14:21
+ * @IDE ：IntelliJ IDEA
+ * @Motto ：ABC(Always Be Coding)
+ * <p></p>
+ * @description ：视频处理
+ */
 public class Video10Util {
     public static void main(String[] args) throws IOException {
         String sourceVideo = "C:\\Users\\Administrator\\Desktop\\ISO下载.mp4" ;
