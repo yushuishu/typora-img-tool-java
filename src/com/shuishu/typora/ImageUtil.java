@@ -15,7 +15,7 @@ import java.util.Set;
  * <p></p>
  * @description ：typora导出的HTML文件之后，使用此工具将 html文件中 关联本地的图片路径转换为 base64编码格式，方便文件的传递分享，不需要携带图片文件夹
  */
-public class Image40Util {
+public class ImageUtil {
     public static void main(String[] args) {
         // 获取文件路径
         if (args.length == 0) {
