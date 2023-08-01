@@ -17,7 +17,7 @@ import java.util.Base64;
  * <p></p>
  * @description ：视频处理
  */
-public class Video10Util {
+public class VideoUtil {
     public static void main(String[] args) throws IOException {
         String sourceVideo = "C:\\Users\\Administrator\\Desktop\\ISO下载.mp4" ;
 
