@@ -28,10 +28,10 @@ Typora导出的html文件之后，使用此工具将 html文件中 关联本地�
 
 2、在当前目录 打开cmd
 ```bash
-# 命令方式一：默认读取和写出编码是 `UTF-8`
+# 执行方式一：默认读取和写出编码是 `UTF-8`
 java -jar typora-img.jar 学习笔记.html
 
-# 命令方式二：指定编码 （读取文件`GBK` 写出文件`UTF-8`）
+# 执行方式二：指定编码 （读取文件`GBK` 写出文件`UTF-8`）
 java -jar typora-img.jar GBK UTF-8 学习笔记.html
 ```
 
